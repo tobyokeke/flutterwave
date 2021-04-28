@@ -1,6 +1,6 @@
 <?php
 
-namespace tobyokeke\flutterwavelaravel;
+namespace tobyokeke\flutterwave;
 
 use GuzzleHttp\Client;
 
