@@ -1,0 +1,24 @@
+{
+    "name": "tobyokeke/flutterwave",
+    "description": "Package that implements flutterwave's stable api",
+    "authors": [
+        {
+            "name": "Toby Okeke",
+            "email": "toby.okeke@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "tobyokeke\\flutterwave\\": "src/"
+        }
+    },
+    "require": {
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+
+}
